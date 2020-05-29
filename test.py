@@ -5,5 +5,3 @@ for q in f:
     print(quotes)
 
 f.close()
-
-
